@@ -1,0 +1,9 @@
+c:\Development\FirewallTest\FirewallTest\bin\Debug\FirewallTest.exe.config
+c:\Development\FirewallTest\FirewallTest\bin\Debug\FirewallTest.exe
+c:\Development\FirewallTest\FirewallTest\bin\Debug\FirewallTest.pdb
+c:\Development\FirewallTest\FirewallTest\obj\Debug\FirewallTest.csprojResolveAssemblyReference.cache
+c:\Development\FirewallTest\FirewallTest\obj\Debug\FirewallTest.exe
+c:\Development\FirewallTest\FirewallTest\obj\Debug\FirewallTest.pdb
+C:\Users\shuff\Source\Repos\FirewallTest\FirewallTest\bin\Debug\FirewallTest.exe.config
+C:\Users\shuff\Source\Repos\FirewallTest\FirewallTest\obj\Debug\FirewallTest.exe
+C:\Users\shuff\Source\Repos\FirewallTest\FirewallTest\obj\Debug\FirewallTest.pdb
